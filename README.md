@@ -1,4 +1,6 @@
-# 🌾 Aether Client
+<div align="center">
+
+# 🌾 Aether Client 
 
 **Skyblock's most efficient farming client, constantly updated with the current meta!**
 
@@ -6,8 +8,13 @@
 [![Security: Undetectable](https://img.shields.io/badge/Security-Fully%20Undetectable-blue.svg)](#)
 [![Client: Injectable](https://img.shields.io/badge/Type-Injectable-orange.svg)](#)
 
+<br>
 
+<a href="https://github.com/CrackDoorSanctify/aether-skyblock-macro/releases/tag/public">
+  <img src="https://img.shields.io/badge/Download-Latest_Release-2ea44f?style=for-the-badge&logo=github&logoColor=white" height="60">
+</a>
 
+</div>
 
 ## 📖 About
 
@@ -39,10 +46,7 @@ Besides the core farming automation functionalities you'd expect, Aether offers 
 
 ## ⚙️ Installation & Usage
 
-*(Provide instructions on how to download, inject, and configure the client here)*
-
 1. Download the latest release from the [Releases](https://github.com/CrackDoorSanctify/aether-skyblock-macro/releases) tab.
 2. Launch Minecraft (Forge/Fabric depending on your setup).
 3. Use your preferred injector to inject the Aether client.
 4. Press `K` to open the Aether GUI and configure your settings.
-
